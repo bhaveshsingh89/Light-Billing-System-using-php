@@ -8,6 +8,6 @@ We can make a Website without using any other tags, use Only "div" tag that's en
 Instruction to deploy:
 
   ▶Make a folder called "lightbilling" in htdocs folder of Xampp Server.<br>
-  ▶Copy this whole project into that folder.
-  ▶Import "lightbilling.sql" file from DATABASE folder to Xampp database.
-  ▶Run "index.php" file sing your Browser.
+  ▶Copy this whole project into that folder.<br>
+  ▶Import "lightbilling.sql" file from DATABASE folder to Xampp database.<br>
+  ▶Run "index.php" file sing your Browser.<br>
